@@ -3,3 +3,13 @@ Breakout Ball game is a widely used game which was developed in the 1970’s. In
 
 The project makes use of Java swing, OOPS concepts and much more.
 Used new Java concepts like AWT, Swing, JFrame, JPanel etc.
+
+
+#Functional components of the project
+
+1. The player should be able to start the game in the terminal by pressing the ENTER key.
+2. The player should be able to move the paddle sideways using the Leftwards and the Rightwards Arrow on the keyboard.
+3. Once the player loses the ball, i.e. when the ball touches the bottom of the screen, the game ends.
+4. Breaking each brick provides the player a certain number of points.
+5. Once the game ends, the terminal will present the final score of the player and give him the option to restart the game again.
+
